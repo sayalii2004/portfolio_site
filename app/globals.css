@@ -1,0 +1,46 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Kalam&display=swap');
+
+
+@import url('https://fonts.googleapis.com/css2?family=Caveat&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.btn{
+  @apply  w-auto px-5 rounded-xl mb-10 py-1 bg-gradient-to-r from-green-400 to-blue-500
+}
+
+.links{
+  @apply w-16 text-2xl sm:text-3xl
+}
+
+.dbtn{
+  @apply dark:from-pink-600 dark:to-violet-800
+}
+
+.dark-bg{
+  @apply dark:bg-slate-700  dark:bg-opacity-40 
+}
+
+.light-card{
+  @apply from-slate-300 to-slate-300
+}
+
+.dark-card{
+  @apply dark:from-slate-600 dark:to-slate-600
+}
+
+.light-bar{
+  @apply from-green-400 to-blue-500
+}
+
+.dark-bar{
+  @apply dark:from-pink-400 dark:to-violet-600
+}
+
+.lg-pr{
+  @apply from-sky-600 to-violet-500
+}
