@@ -78,6 +78,14 @@ const projects : Project[] =[
         image_path:"/krishisathi.jpeg"
     },
     {
+        name:'AI Wine Expert',
+        description:"Developed an AI-powered web application for wine producers, quality analysts, and researchers to predict wine quality and provide explainable insights for better quality assessment.",
+        deployed_url:"https://ai-wine-expert.vercel.app/",
+        github_url:"https://github.com/sayalii2004/AI_wine_expert",
+        key_techs:['React.js', 'Flask', 'LightGBM', 'SHAP', 'Scikit-learn'],
+        image_path:"/wine_expert.png"
+    },
+    {
         name:'YouTube Transcipt Summarizer- Chrome Extension',
         description:"Built a responsive Chrome extension that extracts and summarises YouTube video transcripts to provide quick, readable insights.",
         deployed_url:"NA",
