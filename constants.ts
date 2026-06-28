@@ -96,8 +96,8 @@ const projects : Project[] =[
     {
         name:'Portfolio Website',
         description:"Personal Portfolio Website",
-        deployed_url:"https://sahil-ecommerce-website.onrender.com/",
-        github_url:"https://github.com/sayalii2004/portfolio",
+        deployed_url:"https://portfoliosite-neon-nine.vercel.app/",
+        github_url:"https://github.com/sayalii2004/portfolio_site",
         key_techs:['ReactJS','Tailwind CSS'],
         image_path:"/portfolio.jpeg"
     },
