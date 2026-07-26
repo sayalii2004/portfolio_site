@@ -16,8 +16,8 @@ const Page = () => {
             (2022 – 2026)
           </span>
           <p className="mt-2 text-sm">
-             I am pursuing my Bachelor's in Information Technology from iSquareIT with a CGPA of <strong>8.87</strong>. 
-      My academic focus is on software engineering, development, and ML and data analytics, supplemented by hands-on project work.
+             I have recently completed my Bachelor's in Information Technology from iSquareIT with a CGPA of <strong>8.06</strong>. 
+      My focus is on software engineering, development, and ML and data science, supplemented by hands-on project work.
           </p>
 
         </div>
