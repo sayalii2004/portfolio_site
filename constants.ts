@@ -46,9 +46,14 @@ const domains: domain[] = [
     
 ]
 
-const data = `I am an Engineer pursuing a Bachelor's in Information Technology from International Institute of Information Technology, Pune, with current CGPA of 8.87.
-Alongside my engineering projects, I am exploring ML and data analytics fundamentals and continue to deepen my understanding in this space. 
-Beyond coding, I enjoy problem-solving with Java, participating in hackathons, and trekking to reconnect with nature. Always eager to build impactful solutions and grow in the tech ecosystem.`;
+const data = `Hey! I’m Sayali, a recent Information Technology graduate from International Institute of Information Technology Pune. I enjoy building things with code, solving problems, and exploring different areas of tech — from full-stack development to machine learning and data.
+
+I’ve worked on projects that combine software development with real-world problem solving, and I’m always curious to learn something new and turn ideas into something useful.
+
+When I’m not working, you’ll probably find me exploring new places, trekking, making diy things, drawing or simply enjoying some time around nature. 🌿
+
+I’m currently excited to start my professional journey, take on new challenges, and keep growing along the way.
+`;
 
 interface Project {
     name: string;
